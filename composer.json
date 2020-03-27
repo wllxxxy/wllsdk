@@ -1,0 +1,15 @@
+{
+    "name": "wllxxxy/wllsdk",
+    "authors": [
+        {
+            "name": "wllxxxy",
+            "email": "wllxxxy@126.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "wllxxxy\\wllsdk\\": ""
+        }
+    }
+}

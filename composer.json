@@ -1,12 +1,18 @@
 {
     "name": "wllxxxy/wllsdk",
+    "description": "",
+    "keywords": [],
+    "license": "MIT",
     "authors": [
         {
             "name": "wllxxxy",
+            "homepage": "",
             "email": "wllxxxy@126.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php": ">=7.1.0"
+    },
     "autoload": {
         "psr-4": {
             "wllxxxy\\wllsdk\\": ""

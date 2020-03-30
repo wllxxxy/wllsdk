@@ -1,21 +1,20 @@
 {
     "name": "wllxxxy/wllsdk",
-    "description": "",
-    "keywords": [],
+    "type": "library",
+    "require": {
+        "php": ">=7.1.23"
+    },
     "license": "MIT",
     "authors": [
         {
             "name": "wllxxxy",
-            "homepage": "",
             "email": "wllxxxy@126.com"
         }
     ],
-    "require": {
-        "php": ">=7.1.0"
-    },
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "wllxxxy\\wllsdk\\": ""
+            "wllxxxy\\wllsdk\\": "src/"
         }
     }
 }
